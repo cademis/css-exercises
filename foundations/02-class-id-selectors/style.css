@@ -1,0 +1,18 @@
+p {
+    background-color: rgb(194, 105, 114);
+    font-family: Verdana, sans-serif;
+}
+
+#two {
+    font-size: 36px;
+    color: blue;
+}
+
+#three {
+    font-size: 24px;
+}
+
+.classname.four {
+    font-size: 24px;
+    background-color: lightgreen;
+}
